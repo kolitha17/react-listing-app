@@ -1,0 +1,24 @@
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Nunito Sans',sans-serif;
+    color: #fff;font-style: italic;
+}
+.hero-text-subtitle{
+    position: absolute;
+    top: 18%;
+    font-size: 22px;
+    color: var(--primary-color);
+}
+.hero-text-title{
+    top: 20%;
+    position: absolute;font-size: 90px;
+    color: var(--primary-color);
+}
+.hero-img{
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+}

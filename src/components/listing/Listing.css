@@ -1,0 +1,7 @@
+.listing-section{
+    background-color: rgb(241, 237, 245);
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
